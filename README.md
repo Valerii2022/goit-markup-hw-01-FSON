@@ -8,4 +8,4 @@ without CSS design. Configured GitHub Pages and added a
 [link](https://valerii2022.github.io/goit-markup-hw-01-FSON/) to the live page in the
 GitHub-repository header.
 
-![WebStudio Page](./assets/stodio.png)
+![WebStudio Page](./assets/studio.png)
